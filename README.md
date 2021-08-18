@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevChrisMiller
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning everything I can get my hands on
+- 🌱 I’m currently learning everything I can get my hands on!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me:
 
